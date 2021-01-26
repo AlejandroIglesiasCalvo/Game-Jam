@@ -37,8 +37,6 @@ public class MovementScript : MonoBehaviour
     private void FixedUpdate()
     {
         Moverse();
-
-
     }
     private void Moverse()
     {
@@ -56,8 +54,6 @@ public class MovementScript : MonoBehaviour
         Vector2 direccion = new Vector2(horizontalMove, verticalMove);
         //direccion=direccion.normalized;
         m_Rigidbody2D.velocity =direccion*Time.fixedDeltaTime*runSpeed;
-        
-
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
