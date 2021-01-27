@@ -2806,9 +2806,11 @@ MonoBehaviour:
   verticalMove: 0
   Corazon: {fileID: 847438586}
   numCorazones: 4
-  PosPrimerCorazon: {fileID: 0}
-  MyCanvas: {fileID: 0}
+  PosPrimerCorazon: {fileID: 239311113}
+  MyCanvas: {fileID: 1396190987}
   OffSet: 30
+  sonidoDolor: {fileID: 7217893804640975322, guid: 08ae3b2ece461544e8b9c51b53eba6c1,
+    type: 3}
 --- !u!95 &1295603924
 Animator:
   serializedVersion: 3

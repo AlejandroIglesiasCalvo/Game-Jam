@@ -19,6 +19,7 @@ public class MovementScript : MonoBehaviour
     public RectTransform PosPrimerCorazon;
     public Canvas MyCanvas;
     public int OffSet;
+    public GameObject sonidoDolor;
 
     // Start is called before the first frame update
     void Start()
@@ -84,11 +85,12 @@ public class MovementScript : MonoBehaviour
     {
         colisionado = collision.gameObject;
 
-        //Si choca contra un fuego se quema
+        //Si choca contra un fuego se quema y le quita una vida
         if(colisionado.tag == "Fuego")
         {
             Destroy(MyCanvas.transform.GetChild(numCorazones + 1).gameObject);
             numCorazones -= 1;
+            Instantiate(sonidoDolor);
         }
     
     }
