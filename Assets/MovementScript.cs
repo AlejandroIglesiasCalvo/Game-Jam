@@ -64,16 +64,14 @@ public class MovementScript : MonoBehaviour
             Destroy(gameObject);
             Destroy(Corazon);
         }
-<<<<<<< Updated upstream
-
         //Animaciones
         animator.SetFloat("Horizontal", horizontalMove);
         animator.SetFloat("Vertical", verticalMove);
-=======
+
         if(colisionado.tag == "Hielo"){
             enHielo=true;
         }
->>>>>>> Stashed changes
+
     }
 
     private void FixedUpdate()
