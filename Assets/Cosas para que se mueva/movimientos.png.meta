@@ -1,0 +1,5837 @@
+fileFormatVersion: 2
+guid: 898c4e3947604194983129accd72c659
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5734115260918645642
+    second: movimientos_0
+  - first:
+      213: -6828954006481914837
+    second: movimientos_1
+  - first:
+      213: -4249644348957413813
+    second: movimientos_2
+  - first:
+      213: 2215726563523015756
+    second: movimientos_3
+  - first:
+      213: 5748169774673112343
+    second: movimientos_4
+  - first:
+      213: 2499555848110022943
+    second: movimientos_5
+  - first:
+      213: -409319653975988750
+    second: movimientos_6
+  - first:
+      213: 6041544392144617774
+    second: movimientos_7
+  - first:
+      213: 1466221244585105084
+    second: movimientos_8
+  - first:
+      213: 1495468322980781267
+    second: movimientos_9
+  - first:
+      213: -1195420373658176148
+    second: movimientos_10
+  - first:
+      213: 3512158319094431598
+    second: movimientos_11
+  - first:
+      213: 1977500956261993281
+    second: movimientos_12
+  - first:
+      213: 220632462202825237
+    second: movimientos_13
+  - first:
+      213: -1552912777243729225
+    second: movimientos_14
+  - first:
+      213: 453025830638630528
+    second: movimientos_15
+  - first:
+      213: 4965723717368312965
+    second: movimientos_16
+  - first:
+      213: -9115622263652096617
+    second: movimientos_17
+  - first:
+      213: 4575771647764760153
+    second: movimientos_18
+  - first:
+      213: -8309340194102512296
+    second: movimientos_19
+  - first:
+      213: 3454178366771057585
+    second: movimientos_20
+  - first:
+      213: 5657859116397620140
+    second: movimientos_21
+  - first:
+      213: -7864920463476473630
+    second: movimientos_22
+  - first:
+      213: 3310004593682520961
+    second: movimientos_23
+  - first:
+      213: -5464952383311884943
+    second: movimientos_24
+  - first:
+      213: 3705416130343530210
+    second: movimientos_25
+  - first:
+      213: 7983746500391723468
+    second: movimientos_26
+  - first:
+      213: 2949956538799966907
+    second: movimientos_27
+  - first:
+      213: 633691558415795453
+    second: movimientos_28
+  - first:
+      213: 3140252216538397217
+    second: movimientos_29
+  - first:
+      213: -7774056774018379301
+    second: movimientos_30
+  - first:
+      213: 4402899473825908100
+    second: movimientos_31
+  - first:
+      213: 8806258026002836458
+    second: movimientos_32
+  - first:
+      213: 1990035191312299830
+    second: movimientos_33
+  - first:
+      213: -2287750255912027133
+    second: movimientos_34
+  - first:
+      213: -3827507194885283861
+    second: movimientos_35
+  - first:
+      213: -978524193772727425
+    second: movimientos_36
+  - first:
+      213: 6016871348324086772
+    second: movimientos_37
+  - first:
+      213: 1653405126677667964
+    second: movimientos_38
+  - first:
+      213: -4916368044195225743
+    second: movimientos_39
+  - first:
+      213: 1963743504643405534
+    second: movimientos_40
+  - first:
+      213: 2901925067372065891
+    second: movimientos_41
+  - first:
+      213: -293875138868719889
+    second: movimientos_42
+  - first:
+      213: 8804257693700968121
+    second: movimientos_43
+  - first:
+      213: -6143921390577890448
+    second: movimientos_44
+  - first:
+      213: -1272202742954011019
+    second: movimientos_45
+  - first:
+      213: -7372437517443490488
+    second: movimientos_46
+  - first:
+      213: -6593804046730221389
+    second: movimientos_47
+  - first:
+      213: 5614525627703132215
+    second: movimientos_48
+  - first:
+      213: -1382030627560439993
+    second: movimientos_49
+  - first:
+      213: 8685223114611216609
+    second: movimientos_50
+  - first:
+      213: 720335694945092372
+    second: movimientos_51
+  - first:
+      213: -765602597604334852
+    second: movimientos_52
+  - first:
+      213: -4299373969175727731
+    second: movimientos_53
+  - first:
+      213: -1397506783950187990
+    second: movimientos_54
+  - first:
+      213: 6554872281639081757
+    second: movimientos_55
+  - first:
+      213: 1965280457567512438
+    second: movimientos_56
+  - first:
+      213: 6534184542399743343
+    second: movimientos_57
+  - first:
+      213: 2633514809442450372
+    second: movimientos_58
+  - first:
+      213: 3220103391333705831
+    second: movimientos_59
+  - first:
+      213: -1278161622497237565
+    second: movimientos_60
+  - first:
+      213: -1194578193112554808
+    second: movimientos_61
+  - first:
+      213: -8367208560949219401
+    second: movimientos_62
+  - first:
+      213: -3720393141955264669
+    second: movimientos_63
+  - first:
+      213: 5224993141109423786
+    second: movimientos_64
+  - first:
+      213: -9008142105480458381
+    second: movimientos_65
+  - first:
+      213: -2845526872414504646
+    second: movimientos_66
+  - first:
+      213: -2353690116590213756
+    second: movimientos_67
+  - first:
+      213: -3360124794177738927
+    second: movimientos_68
+  - first:
+      213: -788886633097769903
+    second: movimientos_69
+  - first:
+      213: 4160499065612885763
+    second: movimientos_70
+  - first:
+      213: 421840354680426683
+    second: movimientos_71
+  - first:
+      213: 1433577285869494997
+    second: movimientos_72
+  - first:
+      213: 7292486501113851765
+    second: movimientos_73
+  - first:
+      213: -1020753897007962845
+    second: movimientos_74
+  - first:
+      213: -7009876384834197295
+    second: movimientos_75
+  - first:
+      213: 1565912156717772286
+    second: movimientos_76
+  - first:
+      213: 7321096158020981152
+    second: movimientos_77
+  - first:
+      213: -8401942356357610137
+    second: movimientos_78
+  - first:
+      213: 1534232372285572700
+    second: movimientos_79
+  - first:
+      213: -5930594971326591870
+    second: movimientos_80
+  - first:
+      213: 3133858486002103839
+    second: movimientos_81
+  - first:
+      213: -6993486190805243077
+    second: movimientos_82
+  - first:
+      213: -2070987243419356761
+    second: movimientos_83
+  - first:
+      213: -1061727686072224712
+    second: movimientos_84
+  - first:
+      213: -5447807301129798967
+    second: movimientos_85
+  - first:
+      213: -5634874731469936197
+    second: movimientos_86
+  - first:
+      213: 4179295082359774920
+    second: movimientos_87
+  - first:
+      213: 4570017924049195453
+    second: movimientos_88
+  - first:
+      213: 8989242099402631195
+    second: movimientos_89
+  - first:
+      213: -7749912144433732269
+    second: movimientos_90
+  - first:
+      213: -3481542753750117209
+    second: movimientos_91
+  - first:
+      213: -3195077589312840990
+    second: movimientos_92
+  - first:
+      213: -5110531035464619963
+    second: movimientos_93
+  - first:
+      213: -4505834159471535001
+    second: movimientos_94
+  - first:
+      213: 2623625076157835623
+    second: movimientos_95
+  - first:
+      213: 5337285879948051068
+    second: movimientos_96
+  - first:
+      213: 6478615473721451741
+    second: movimientos_97
+  - first:
+      213: -1873101329830535596
+    second: movimientos_98
+  - first:
+      213: 7642454043298813065
+    second: movimientos_99
+  - first:
+      213: 6426475489251115683
+    second: movimientos_100
+  - first:
+      213: 133191980171592008
+    second: movimientos_101
+  - first:
+      213: 9100819199760765047
+    second: movimientos_102
+  - first:
+      213: 2603991325460456150
+    second: movimientos_103
+  - first:
+      213: 9211170015724361822
+    second: movimientos_104
+  - first:
+      213: -939044134365631515
+    second: movimientos_105
+  - first:
+      213: -8887272617069809511
+    second: movimientos_106
+  - first:
+      213: 7836854394190150146
+    second: movimientos_107
+  - first:
+      213: 7407143122415907415
+    second: movimientos_108
+  - first:
+      213: -4517644582000331218
+    second: movimientos_109
+  - first:
+      213: -3664643321549666277
+    second: movimientos_110
+  - first:
+      213: -1468719629940605272
+    second: movimientos_111
+  - first:
+      213: 6033981623514172206
+    second: movimientos_112
+  - first:
+      213: -8528798732327224239
+    second: movimientos_113
+  - first:
+      213: 1368595887696099954
+    second: movimientos_114
+  - first:
+      213: 3043902426895564511
+    second: movimientos_115
+  - first:
+      213: 2525226072100941885
+    second: movimientos_116
+  - first:
+      213: -2010959027230812305
+    second: movimientos_117
+  - first:
+      213: 3597450768178074550
+    second: movimientos_118
+  - first:
+      213: -5738882919981878715
+    second: movimientos_119
+  - first:
+      213: 8978792632351780824
+    second: movimientos_120
+  - first:
+      213: -6803526821047076959
+    second: movimientos_121
+  - first:
+      213: 3424982140068520084
+    second: movimientos_122
+  - first:
+      213: -3282955184515448622
+    second: movimientos_123
+  - first:
+      213: 5688376759517289672
+    second: movimientos_124
+  - first:
+      213: -2029084223999587627
+    second: movimientos_125
+  - first:
+      213: 8307906273816212131
+    second: movimientos_126
+  - first:
+      213: -7465499268870864178
+    second: movimientos_127
+  - first:
+      213: -1809560534374931879
+    second: movimientos_128
+  - first:
+      213: 8843581784630522002
+    second: movimientos_129
+  - first:
+      213: 4683906025261383816
+    second: movimientos_130
+  - first:
+      213: 8722412761573081198
+    second: movimientos_131
+  - first:
+      213: 5760498671463439612
+    second: movimientos_132
+  - first:
+      213: 5921657496939193285
+    second: movimientos_133
+  - first:
+      213: 2025116115748343657
+    second: movimientos_134
+  - first:
+      213: -2411081880203397496
+    second: movimientos_135
+  - first:
+      213: -2938650191035745112
+    second: movimientos_136
+  - first:
+      213: 6290256536588190661
+    second: movimientos_137
+  - first:
+      213: -3759062329194079860
+    second: movimientos_138
+  - first:
+      213: -1056207058404887664
+    second: movimientos_139
+  - first:
+      213: -4732055849536981967
+    second: movimientos_140
+  - first:
+      213: -3366985023180068911
+    second: movimientos_141
+  - first:
+      213: 2728053905866183455
+    second: movimientos_142
+  - first:
+      213: -5877455925851966248
+    second: movimientos_143
+  - first:
+      213: -3659374542525099783
+    second: movimientos_144
+  - first:
+      213: 663028586546674668
+    second: movimientos_145
+  - first:
+      213: 8834469242302582298
+    second: movimientos_146
+  - first:
+      213: -7739776464348989103
+    second: movimientos_147
+  - first:
+      213: -9011299961730486557
+    second: movimientos_148
+  - first:
+      213: -6050616111087060665
+    second: movimientos_149
+  - first:
+      213: -719475778169884315
+    second: movimientos_150
+  - first:
+      213: 7117184041402293862
+    second: movimientos_151
+  - first:
+      213: 674868031324318297
+    second: movimientos_152
+  - first:
+      213: -5177122925906058399
+    second: movimientos_153
+  - first:
+      213: -3064169276117515822
+    second: movimientos_154
+  - first:
+      213: 7698726744413311627
+    second: movimientos_155
+  - first:
+      213: 4146483321647890774
+    second: movimientos_156
+  - first:
+      213: 3584774730962744257
+    second: movimientos_157
+  - first:
+      213: -4208292837818836299
+    second: movimientos_158
+  - first:
+      213: -2370017748170847169
+    second: movimientos_159
+  - first:
+      213: 4695451992422820297
+    second: movimientos_160
+  - first:
+      213: -9172334202765549807
+    second: movimientos_161
+  - first:
+      213: 8694792588434512275
+    second: movimientos_162
+  - first:
+      213: -776168073592764624
+    second: movimientos_163
+  - first:
+      213: 4518819043697559464
+    second: movimientos_164
+  - first:
+      213: -5428228723745569088
+    second: movimientos_165
+  - first:
+      213: -5507923040809507768
+    second: movimientos_166
+  - first:
+      213: 8123285076072347129
+    second: movimientos_167
+  - first:
+      213: 586719087115079041
+    second: movimientos_168
+  - first:
+      213: 3819466791186829048
+    second: movimientos_169
+  - first:
+      213: 5936632874701893893
+    second: movimientos_170
+  - first:
+      213: 1205312620776443378
+    second: movimientos_171
+  - first:
+      213: 457012695860354193
+    second: movimientos_172
+  - first:
+      213: -9023514581249368548
+    second: movimientos_173
+  - first:
+      213: 3773498652583492438
+    second: movimientos_174
+  - first:
+      213: 6261557499241499387
+    second: movimientos_175
+  - first:
+      213: 4141409397496574263
+    second: movimientos_176
+  - first:
+      213: -6855288555373898309
+    second: movimientos_177
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: movimientos_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1282
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83c33cf27ba39f40800000000000000
+      internalID: 5734115260918645642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1282
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b243a20338eaa31a0800000000000000
+      internalID: -6828954006481914837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1282
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ea5aeeafa3605c0800000000000000
+      internalID: -4249644348957413813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1282
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44bf22f197dfbe10800000000000000
+      internalID: 2215726563523015756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1282
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d270874f995cf40800000000000000
+      internalID: 5748169774673112343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1282
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1129d6fcc430b220800000000000000
+      internalID: 2499555848110022943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1282
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5ec2181fdc15af0800000000000000
+      internalID: -409319653975988750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1218
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21888c7d90e7d350800000000000000
+      internalID: 6041544392144617774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1218
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb650ad1470195410800000000000000
+      internalID: 1466221244585105084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1218
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc5e143488f0c410800000000000000
+      internalID: 1495468322980781267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1218
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65f6d6f083096fe0800000000000000
+      internalID: -1195420373658176148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_11
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1218
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f7e8c0261bdb030800000000000000
+      internalID: 3512158319094431598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1218
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bcdf874ae717b10800000000000000
+      internalID: 1977500956261993281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1218
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ae48f2e08df0300800000000000000
+      internalID: 220632462202825237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1154
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2e8398e02f27ae0800000000000000
+      internalID: -1552912777243729225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1154
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086ba4db798794600800000000000000
+      internalID: 453025830638630528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1154
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5847872596bc9e440800000000000000
+      internalID: 4965723717368312965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1154
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795ef5c09ddce7180800000000000000
+      internalID: -9115622263652096617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1154
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9568256f118608f30800000000000000
+      internalID: 4575771647764760153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1154
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855f4a44e1b4fac80800000000000000
+      internalID: -8309340194102512296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1154
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b35a3e6ce4bfef20800000000000000
+      internalID: 3454178366771057585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_21
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1090
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabe516c3e0c48e40800000000000000
+      internalID: 5657859116397620140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_22
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1090
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0c8c332803ad290800000000000000
+      internalID: -7864920463476473630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_23
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1090
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b9b5b04af7fed20800000000000000
+      internalID: 3310004593682520961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1090
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d454e03c69824b0800000000000000
+      internalID: -5464952383311884943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_25
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1090
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eee022a6584c6330800000000000000
+      internalID: 3705416130343530210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_26
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1090
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1ed947427fbce60800000000000000
+      internalID: 7983746500391723468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1090
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba430ea7d950f820800000000000000
+      internalID: 2949956538799966907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1026
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4898c6d135bc800800000000000000
+      internalID: 633691558415795453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1024
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a77efc0ca649b20800000000000000
+      internalID: 3140252216538397217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_30
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1024
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd15ae08d800d1490800000000000000
+      internalID: -7774056774018379301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_31
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1024
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485c52f6ebd3a1d30800000000000000
+      internalID: 4402899473825908100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_32
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1024
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebe450640d163a70800000000000000
+      internalID: 8806258026002836458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_33
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1024
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63732bc76760e9b10800000000000000
+      internalID: 1990035191312299830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_34
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1024
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cfd8563474040e0800000000000000
+      internalID: -2287750255912027133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_35
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1024
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef5c993c76f1eac0800000000000000
+      internalID: -3827507194885283861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_36
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 962
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f731d022e659b62f0800000000000000
+      internalID: -978524193772727425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 962
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f33510dc98308350800000000000000
+      internalID: 6016871348324086772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 962
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70ae6dd33312f610800000000000000
+      internalID: 1653405126677667964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_39
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 962
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f59a4df4d85cbb0800000000000000
+      internalID: -4916368044195225743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 962
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed63048205e904b10800000000000000
+      internalID: 1963743504643405534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_41
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 962
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36473854975b54820800000000000000
+      internalID: 2901925067372065891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_42
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 962
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee49634e12fbebf0800000000000000
+      internalID: -293875138868719889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_43
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 962
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9becb08b9b10f2a70800000000000000
+      internalID: 8804257693700968121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 898
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b4ea21c086cbaa0800000000000000
+      internalID: -6143921390577890448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_45
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 899
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576d2ff785a385ee0800000000000000
+      internalID: -1272202742954011019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_46
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 899
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d94048327dfa990800000000000000
+      internalID: -7372437517443490488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 899
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8ac1ca72a1e74a0800000000000000
+      internalID: -6593804046730221389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_48
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 899
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7308295bf4dcaed40800000000000000
+      internalID: 5614525627703132215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_49
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 899
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fbc8f677a02dce0800000000000000
+      internalID: -1382030627560439993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_50
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 899
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0d96d086c188870800000000000000
+      internalID: 8685223114611216609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_51
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 899
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4138c308f752ff900800000000000000
+      internalID: 720335694945092372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_52
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 834
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf26daa6e780065f0800000000000000
+      internalID: -765602597604334852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_53
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 834
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8138b2772e8554c0800000000000000
+      internalID: -4299373969175727731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_54
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 834
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22537bfbfe0b9ce0800000000000000
+      internalID: -1397506783950187990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_55
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 834
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17d6276c9597fa50800000000000000
+      internalID: 6554872281639081757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_56
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 834
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6772455e924164b10800000000000000
+      internalID: 1965280457567512438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_57
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 834
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65c592c8361eaa50800000000000000
+      internalID: 6534184542399743343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_58
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 834
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb3c8724cf1c8420800000000000000
+      internalID: 2633514809442450372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_59
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 834
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768e97c39fa10bc20800000000000000
+      internalID: 3220103391333705831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 771
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5e38db6ce034ee0800000000000000
+      internalID: -1278161622497237565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_61
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 771
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2291766710c6fe0800000000000000
+      internalID: -1194578193112554808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_62
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 770
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfa30b2524b1eb80800000000000000
+      internalID: -8367208560949219401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_63
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 769
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ff4fc16228e5cc0800000000000000
+      internalID: -3720393141955264669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_64
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 770
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaefda12497e28840800000000000000
+      internalID: 5224993141109423786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_65
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 771
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f09947b76acf280800000000000000
+      internalID: -9008142105480458381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_66
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 770
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39b7e2c268a288d0800000000000000
+      internalID: -2845526872414504646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_67
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 769
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485ea413f43065fd0800000000000000
+      internalID: -2353690116590213756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_68
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 770
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157ad0a6d407e51d0800000000000000
+      internalID: -3360124794177738927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_69
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 706
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c472279cf4d05f0800000000000000
+      internalID: -788886633097769903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_70
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 706
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f533e5bdf0db930800000000000000
+      internalID: 4160499065612885763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_71
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 707
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0d6ac419daad500800000000000000
+      internalID: 421840354680426683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_72
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 707
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2e15232f615e310800000000000000
+      internalID: 1433577285869494997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_73
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 706
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fe834e5dd143560800000000000000
+      internalID: 7292486501113851765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_74
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 706
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325aeb52dbd85d1f0800000000000000
+      internalID: -1020753897007962845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_75
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 706
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8ee82619ae7be90800000000000000
+      internalID: -7009876384834197295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_76
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 706
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efde0aa5fcc3bb510800000000000000
+      internalID: 1565912156717772286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_77
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 706
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a15159ba22c99560800000000000000
+      internalID: 7321096158020981152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 642
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7650ff931fd466b80800000000000000
+      internalID: -8401942356357610137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 642
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c568cf0c630ba4510800000000000000
+      internalID: 1534232372285572700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_80
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 641
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c4c539b4b42bda0800000000000000
+      internalID: -5930594971326591870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_81
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 641
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16bf7a60b3bd7b20800000000000000
+      internalID: 3133858486002103839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_82
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 641
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b247fcc5522fe90800000000000000
+      internalID: -6993486190805243077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_83
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 642
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1bf9d13106243e0800000000000000
+      internalID: -2070987243419356761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_84
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 641
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834b7777b4cf341f0800000000000000
+      internalID: -1061727686072224712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_85
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 641
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9caf0639f108564b0800000000000000
+      internalID: -5447807301129798967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_86
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 641
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9e8ec5947ecc1b0800000000000000
+      internalID: -5634874731469936197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_87
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 578
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce579b0cb6dff930800000000000000
+      internalID: 4179295082359774920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_88
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 578
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1de14c617fb6f30800000000000000
+      internalID: 4570017924049195453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_89
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 579
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1861e6ff0430cc70800000000000000
+      internalID: 8989242099402631195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_90
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 579
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355aa8627f7c27490800000000000000
+      internalID: -7749912144433732269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_91
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 578
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4936cbf431fafc0800000000000000
+      internalID: -3481542753750117209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_92
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 578
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea523b5cddc8a3d0800000000000000
+      internalID: -3195077589312840990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_93
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 578
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548a589991fb319b0800000000000000
+      internalID: -5110531035464619963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_94
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 578
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cd0e374bf0871c0800000000000000
+      internalID: -4505834159471535001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_95
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 578
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769e1303b1df86420800000000000000
+      internalID: 2623625076157835623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_96
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 514
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72030bca39d11a40800000000000000
+      internalID: 5337285879948051068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_97
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 513
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4248bb27aa8e950800000000000000
+      internalID: 6478615473721451741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_98
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 513
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e932fb3486106e0800000000000000
+      internalID: -1873101329830535596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_99
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 513
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984d21ff5737f0a60800000000000000
+      internalID: 7642454043298813065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_100
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 513
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a24196986d6f2950800000000000000
+      internalID: 6426475489251115683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_101
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 513
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8410f09766139d100800000000000000
+      internalID: 133191980171592008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_102
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 450
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7709bce08da9c4e70800000000000000
+      internalID: 9100819199760765047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_103
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 450
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2e440605c332420800000000000000
+      internalID: 2603991325460456150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_104
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 450
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58daf09356a4df70800000000000000
+      internalID: 9211170015724361822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_105
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 450
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebe8b6c558d7f2f0800000000000000
+      internalID: -939044134365631515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 450
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9907f7d34a01aa480800000000000000
+      internalID: -8887272617069809511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 450
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ab922dc8912cc60800000000000000
+      internalID: 7836854394190150146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_108
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 386
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752f314dc657bc660800000000000000
+      internalID: 7407143122415907415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_109
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 386
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26f66c203a1e41c0800000000000000
+      internalID: -4517644582000331218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_110
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 386
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18468ea052942dc0800000000000000
+      internalID: -3664643321549666277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_111
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 386
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae3fb6374f0e9be0800000000000000
+      internalID: -1468719629940605272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_112
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 386
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b0cc231520db350800000000000000
+      internalID: 6033981623514172206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_113
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 386
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c75de8dbe93a980800000000000000
+      internalID: -8528798732327224239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_114
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 322
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27abf2f65ba3ef210800000000000000
+      internalID: 1368595887696099954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_115
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 322
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde3f06412d1e3a20800000000000000
+      internalID: 3043902426895564511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_116
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 322
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30b12dbbb76b0320800000000000000
+      internalID: 2525226072100941885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_117
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 322
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67da045b63a714e0800000000000000
+      internalID: -2010959027230812305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_118
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 322
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3d53ed966bce130800000000000000
+      internalID: 3597450768178074550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_119
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 322
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5427ce2e3646b50b0800000000000000
+      internalID: -5738882919981878715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_120
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 258
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfe833d3541b9c70800000000000000
+      internalID: 8978792632351780824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_121
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 256
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a775a327640591a0800000000000000
+      internalID: -6803526821047076959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_122
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 256
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49067dc2c1bf78f20800000000000000
+      internalID: 3424982140068520084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_123
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 256
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d00e6d47a99072d0800000000000000
+      internalID: -3282955184515448622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_124
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 256
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc9d93468c21fe40800000000000000
+      internalID: 5688376759517289672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_125
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 256
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dac72916ae37d3e0800000000000000
+      internalID: -2029084223999587627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_126
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 256
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2fd062dbc9b4370800000000000000
+      internalID: 8307906273816212131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_127
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 256
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2830808f7356890800000000000000
+      internalID: -7465499268870864178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_128
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 256
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952240d084623e6e0800000000000000
+      internalID: -1809560534374931879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_129
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 256
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290740f17c6baba70800000000000000
+      internalID: 8843581784630522002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_130
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 256
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880440da6b3900140800000000000000
+      internalID: 4683906025261383816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_131
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 256
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60c5ed713c3c0970800000000000000
+      internalID: 8722412761573081198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_132
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 256
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc10b1750761ff40800000000000000
+      internalID: 5760498671463439612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_133
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 194
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3e6928e14fd2250800000000000000
+      internalID: 5921657496939193285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_134
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 194
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f4914b068aa1c10800000000000000
+      internalID: 2025116115748343657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_135
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 194
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886781eedcd1a8ed0800000000000000
+      internalID: -2411081880203397496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_136
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 194
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac3e2c8831d737d0800000000000000
+      internalID: -2938650191035745112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_137
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 194
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c30b692efa7b4750800000000000000
+      internalID: 6290256536588190661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_138
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 194
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8995db5ab025dbc0800000000000000
+      internalID: -3759062329194079860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_139
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 194
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0933482c6499751f0800000000000000
+      internalID: -1056207058404887664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_140
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 194
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134f90fb64c545eb0800000000000000
+      internalID: -4732055849536981967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_141
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 194
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7aa41e5f01641d0800000000000000
+      internalID: -3366985023180068911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_142
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 194
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f135543d29efbd520800000000000000
+      internalID: 2728053905866183455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_143
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 194
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4349cb9f41f6ea0800000000000000
+      internalID: -5877455925851966248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_144
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 194
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f01fa4ed3a473dc0800000000000000
+      internalID: -3659374542525099783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_145
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 194
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb3b019cfc833900800000000000000
+      internalID: 663028586546674668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_146
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 130
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e4f8608f65a9a70800000000000000
+      internalID: 8834469242302582298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_147
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 131
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159bc81105ac69490800000000000000
+      internalID: -7739776464348989103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_148
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 131
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee2090cd6e61f280800000000000000
+      internalID: -9011299961730486557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_149
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 130
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749766a54b4e70ca0800000000000000
+      internalID: -6050616111087060665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_150
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 130
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561bfa97798e306f0800000000000000
+      internalID: -719475778169884315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_151
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 130
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66edcdc5d2155c260800000000000000
+      internalID: 7117184041402293862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_152
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 130
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a6a5d16ec9d5900800000000000000
+      internalID: 674868031324318297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_153
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 130
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163a6d2e02a2728b0800000000000000
+      internalID: -5177122925906058399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_154
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 130
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1895d2742e975d0800000000000000
+      internalID: -3064169276117515822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_155
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 130
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b821e873f2f57da60800000000000000
+      internalID: 7698726744413311627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_156
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 130
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65187edac944b8930800000000000000
+      internalID: 4146483321647890774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_157
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 130
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3b4d6ff9dafb130800000000000000
+      internalID: 3584774730962744257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_158
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 130
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5badcf2e5f32995c0800000000000000
+      internalID: -4208292837818836299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_159
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 66
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cc7e83a610c1fd0800000000000000
+      internalID: -2370017748170847169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_160
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 66
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c92344a5b8992140800000000000000
+      internalID: 4695451992422820297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_161
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 66
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f5ef2c3a255b080800000000000000
+      internalID: -9172334202765549807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_162
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 66
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399965dcacb1aa870800000000000000
+      internalID: 8694792588434512275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_163
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 66
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0370187df3f7a35f0800000000000000
+      internalID: -776168073592764624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_164
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 66
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a70ddf7af116be30800000000000000
+      internalID: 4518819043697559464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_165
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 66
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6c2995cbe0ba4b0800000000000000
+      internalID: -5428228723745569088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_166
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 66
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8442c563d2def83b0800000000000000
+      internalID: -5507923040809507768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_167
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 66
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f53688dcb4bbb070800000000000000
+      internalID: 8123285076072347129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_168
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 66
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d8f62b6e1742800800000000000000
+      internalID: 586719087115079041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_169
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 66
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe87186fc8710530800000000000000
+      internalID: 3819466791186829048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_170
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 66
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501338a5528236250800000000000000
+      internalID: 5936632874701893893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_171
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 66
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdccac41712ab010800000000000000
+      internalID: 1205312620776443378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_172
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c999220a2a75600800000000000000
+      internalID: 457012695860354193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_173
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ed2170c4906c280800000000000000
+      internalID: -9023514581249368548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_174
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b77ab18092e5430800000000000000
+      internalID: 3773498652583492438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_175
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa09f2de5585e650800000000000000
+      internalID: 6261557499241499387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_176
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 3
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7317f37a7ed397930800000000000000
+      internalID: 4141409397496574263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientos_177
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb55328316f1dd0a0800000000000000
+      internalID: -6855288555373898309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -78, y: -634}
+      - {x: -80, y: -638}
+      - {x: -80, y: -672}
+      - {x: -42, y: -672}
+      - {x: -42, y: -635}
+      - {x: -44, y: -634}
+    - - {x: -380, y: -672}
+      - {x: -367, y: -672}
+      - {x: -367, y: -623}
+      - {x: -377, y: -618}
+      - {x: -397, y: -618}
+      - {x: -401, y: -633}
+      - {x: -401, y: -666}
+      - {x: -400, y: -671}
+      - {x: -396, y: -672}
+      - {x: -387, y: -672}
+      - {x: -385, y: -668}
+      - {x: -385, y: -664}
+      - {x: -383, y: -668}
+    - - {x: -331, y: -619}
+      - {x: -334, y: -626}
+      - {x: -336, y: -661}
+      - {x: -336, y: -668}
+      - {x: -330, y: -672}
+      - {x: -305, y: -672}
+      - {x: -301, y: -668}
+      - {x: -301, y: -624}
+      - {x: -312, y: -619}
+    - - {x: -248, y: -625}
+      - {x: -264, y: -625}
+      - {x: -267, y: -626}
+      - {x: -271, y: -646}
+      - {x: -271, y: -670}
+      - {x: -269, y: -672}
+      - {x: -243, y: -672}
+      - {x: -237, y: -666}
+      - {x: -237, y: -653}
+      - {x: -242, y: -628}
+    - - {x: -180, y: -629}
+      - {x: -197, y: -629}
+      - {x: -207, y: -634}
+      - {x: -207, y: -671}
+      - {x: -173, y: -671}
+      - {x: -173, y: -651}
+      - {x: -176, y: -631}
+    - - {x: -119, y: -635}
+      - {x: -129, y: -635}
+      - {x: -133, y: -636}
+      - {x: -136, y: -638}
+      - {x: -143, y: -648}
+      - {x: -143, y: -671}
+      - {x: -109, y: -671}
+      - {x: -108, y: -670}
+      - {x: -108, y: -651}
+      - {x: -112, y: -637}
+    - - {x: -394, y: -555}
+      - {x: -401, y: -561}
+      - {x: -401, y: -587}
+      - {x: -395, y: -608}
+      - {x: -372, y: -608}
+      - {x: -372, y: -555}
+    - - {x: -314, y: -555}
+      - {x: -329, y: -555}
+      - {x: -337, y: -563}
+      - {x: -337, y: -588}
+      - {x: -333, y: -606}
+      - {x: -330, y: -608}
+      - {x: -312, y: -608}
+      - {x: -306, y: -602}
+      - {x: -306, y: -568}
+      - {x: -310, y: -556}
+    - - {x: -273, y: -555}
+      - {x: -273, y: -608}
+      - {x: -237, y: -608}
+      - {x: -237, y: -556}
+      - {x: -240, y: -555}
+    - - {x: -184, y: -555}
+      - {x: -207, y: -555}
+      - {x: -210, y: -562}
+      - {x: -210, y: -604}
+      - {x: -206, y: -608}
+      - {x: -191, y: -608}
+      - {x: -180, y: -605}
+      - {x: -171, y: -589}
+      - {x: -171, y: -578}
+      - {x: -182, y: -556}
+    - - {x: -139, y: -555}
+      - {x: -146, y: -563}
+      - {x: -146, y: -604}
+      - {x: -144, y: -608}
+      - {x: -113, y: -608}
+      - {x: -107, y: -589}
+      - {x: -107, y: -570}
+      - {x: -117, y: -555}
+    - - {x: -75, y: -555}
+      - {x: -81, y: -561}
+      - {x: -81, y: -594}
+      - {x: -77, y: -608}
+      - {x: -63, y: -608}
+      - {x: -52, y: -605}
+      - {x: -42, y: -585}
+      - {x: -42, y: -568}
+      - {x: -56, y: -555}
+    - - {x: -17, y: -555}
+      - {x: -17, y: -594}
+      - {x: -13, y: -608}
+      - {x: 5, y: -608}
+      - {x: 9, y: -607}
+      - {x: 22, y: -580}
+      - {x: 22, y: -567}
+      - {x: 16, y: -555}
+    - - {x: 46, y: -555}
+      - {x: 45, y: -557}
+      - {x: 45, y: -608}
+      - {x: 76, y: -608}
+      - {x: 85, y: -596}
+      - {x: 85, y: -557}
+      - {x: 82, y: -555}
+    - - {x: 112, y: -555}
+      - {x: 107, y: -569}
+      - {x: 107, y: -584}
+      - {x: 115, y: -608}
+      - {x: 132, y: -608}
+      - {x: 141, y: -606}
+      - {x: 149, y: -593}
+      - {x: 149, y: -562}
+      - {x: 139, y: -555}
+    - - {x: 182, y: -555}
+      - {x: 174, y: -560}
+      - {x: 174, y: -606}
+      - {x: 177, y: -608}
+      - {x: 194, y: -608}
+      - {x: 205, y: -606}
+      - {x: 213, y: -587}
+      - {x: 213, y: -569}
+      - {x: 202, y: -555}
+    - - {x: 266, y: -608}
+      - {x: 277, y: -601}
+      - {x: 277, y: -566}
+      - {x: 267, y: -555}
+      - {x: 241, y: -555}
+      - {x: 239, y: -556}
+      - {x: 239, y: -608}
+    - - {x: 303, y: -555}
+      - {x: 303, y: -608}
+      - {x: 334, y: -608}
+      - {x: 341, y: -600}
+      - {x: 341, y: -570}
+      - {x: 330, y: -555}
+    - - {x: 394, y: -608}
+      - {x: 405, y: -601}
+      - {x: 405, y: -566}
+      - {x: 395, y: -555}
+      - {x: 369, y: -555}
+      - {x: 367, y: -556}
+      - {x: 367, y: -608}
+    - - {x: -382, y: -544}
+      - {x: -374, y: -544}
+      - {x: -368, y: -543}
+      - {x: -368, y: -498}
+      - {x: -377, y: -490}
+      - {x: -392, y: -490}
+      - {x: -396, y: -492}
+      - {x: -402, y: -502}
+      - {x: -402, y: -544}
+      - {x: -388, y: -544}
+      - {x: -386, y: -540}
+      - {x: -386, y: -536}
+    - - {x: -207, y: -490}
+      - {x: -208, y: -493}
+      - {x: -208, y: -534}
+      - {x: -200, y: -544}
+      - {x: -184, y: -544}
+      - {x: -181, y: -543}
+      - {x: -180, y: -536}
+      - {x: -180, y: -495}
+      - {x: -184, y: -490}
+    - - {x: -117, y: -490}
+      - {x: -137, y: -490}
+      - {x: -144, y: -495}
+      - {x: -144, y: -543}
+      - {x: -137, y: -544}
+      - {x: -118, y: -544}
+      - {x: -117, y: -543}
+      - {x: -116, y: -528}
+      - {x: -116, y: -491}
+    - - {x: -55, y: -490}
+      - {x: -73, y: -490}
+      - {x: -80, y: -495}
+      - {x: -80, y: -542}
+      - {x: -74, y: -544}
+      - {x: -55, y: -544}
+      - {x: -52, y: -526}
+      - {x: -52, y: -493}
+    - - {x: -16, y: -490}
+      - {x: -16, y: -544}
+      - {x: 9, y: -544}
+      - {x: 12, y: -526}
+      - {x: 12, y: -494}
+      - {x: 5, y: -490}
+    - - {x: 73, y: -490}
+      - {x: 57, y: -490}
+      - {x: 48, y: -494}
+      - {x: 48, y: -543}
+      - {x: 54, y: -544}
+      - {x: 74, y: -544}
+      - {x: 75, y: -543}
+      - {x: 76, y: -526}
+      - {x: 76, y: -491}
+    - - {x: 119, y: -490}
+      - {x: 112, y: -496}
+      - {x: 112, y: -533}
+      - {x: 114, y: -540}
+      - {x: 120, y: -544}
+      - {x: 140, y: -544}
+      - {x: 140, y: -491}
+      - {x: 139, y: -490}
+    - - {x: 179, y: -490}
+      - {x: 176, y: -502}
+      - {x: 176, y: -529}
+      - {x: 180, y: -539}
+      - {x: 185, y: -544}
+      - {x: 197, y: -544}
+      - {x: 202, y: -543}
+      - {x: 204, y: -525}
+      - {x: 204, y: -490}
+    - - {x: 242, y: -490}
+      - {x: 240, y: -497}
+      - {x: 240, y: -534}
+      - {x: 247, y: -544}
+      - {x: 268, y: -544}
+      - {x: 268, y: -492}
+      - {x: 262, y: -490}
+    - - {x: 309, y: -490}
+      - {x: 304, y: -501}
+      - {x: 304, y: -530}
+      - {x: 305, y: -540}
+      - {x: 312, y: -544}
+      - {x: 325, y: -544}
+      - {x: 330, y: -543}
+      - {x: 332, y: -525}
+      - {x: 332, y: -490}
+    - - {x: 370, y: -490}
+      - {x: 368, y: -497}
+      - {x: 368, y: -534}
+      - {x: 375, y: -544}
+      - {x: 396, y: -544}
+      - {x: 396, y: -492}
+      - {x: 390, y: -490}
+    - - {x: -331, y: -490}
+      - {x: -336, y: -496}
+      - {x: -336, y: -543}
+      - {x: -307, y: -543}
+      - {x: -307, y: -492}
+      - {x: -309, y: -490}
+    - - {x: -272, y: -490}
+      - {x: -272, y: -541}
+      - {x: -266, y: -543}
+      - {x: -244, y: -543}
+      - {x: -244, y: -492}
+      - {x: -245, y: -490}
+    - - {x: -393, y: -427}
+      - {x: -396, y: -432}
+      - {x: -396, y: -479}
+      - {x: -387, y: -480}
+      - {x: -367, y: -480}
+      - {x: -367, y: -427}
+    - - {x: -334, y: -427}
+      - {x: -334, y: -480}
+      - {x: -309, y: -480}
+      - {x: -305, y: -479}
+      - {x: -303, y: -469}
+      - {x: -303, y: -432}
+      - {x: -306, y: -427}
+    - - {x: -265, y: -427}
+      - {x: -273, y: -443}
+      - {x: -275, y: -452}
+      - {x: -275, y: -471}
+      - {x: -264, y: -480}
+      - {x: -240, y: -480}
+      - {x: -239, y: -476}
+      - {x: -239, y: -434}
+      - {x: -247, y: -427}
+    - - {x: -202, y: -427}
+      - {x: -213, y: -447}
+      - {x: -213, y: -473}
+      - {x: -207, y: -480}
+      - {x: -179, y: -480}
+      - {x: -174, y: -471}
+      - {x: -174, y: -430}
+      - {x: -183, y: -427}
+    - - {x: -136, y: -427}
+      - {x: -147, y: -431}
+      - {x: -149, y: -433}
+      - {x: -149, y: -471}
+      - {x: -138, y: -480}
+      - {x: -111, y: -480}
+      - {x: -110, y: -475}
+      - {x: -110, y: -429}
+      - {x: -111, y: -427}
+    - - {x: -70, y: -427}
+      - {x: -79, y: -429}
+      - {x: -86, y: -436}
+      - {x: -86, y: -469}
+      - {x: -82, y: -480}
+      - {x: -51, y: -480}
+      - {x: -47, y: -479}
+      - {x: -47, y: -430}
+      - {x: -50, y: -427}
+    - - {x: -13, y: -427}
+      - {x: -22, y: -437}
+      - {x: -22, y: -455}
+      - {x: -9, y: -480}
+      - {x: 14, y: -480}
+      - {x: 17, y: -471}
+      - {x: 17, y: -431}
+      - {x: 8, y: -427}
+    - - {x: 51, y: -427}
+      - {x: 48, y: -428}
+      - {x: 43, y: -443}
+      - {x: 43, y: -460}
+      - {x: 51, y: -478}
+      - {x: 55, y: -480}
+      - {x: 81, y: -480}
+      - {x: 83, y: -474}
+      - {x: 83, y: -434}
+      - {x: 79, y: -427}
+    - - {x: 107, y: -457}
+      - {x: 116, y: -477}
+      - {x: 118, y: -480}
+      - {x: 143, y: -480}
+      - {x: 149, y: -473}
+      - {x: 149, y: -435}
+      - {x: 140, y: -427}
+      - {x: 118, y: -427}
+      - {x: 107, y: -442}
+    - - {x: 194, y: -427}
+      - {x: 186, y: -427}
+      - {x: 179, y: -435}
+      - {x: 171, y: -449}
+      - {x: 171, y: -472}
+      - {x: 184, y: -480}
+      - {x: 210, y: -480}
+      - {x: 210, y: -438}
+      - {x: 206, y: -429}
+    - - {x: 244, y: -427}
+      - {x: 235, y: -443}
+      - {x: 235, y: -468}
+      - {x: 246, y: -480}
+      - {x: 272, y: -480}
+      - {x: 273, y: -477}
+      - {x: 273, y: -430}
+      - {x: 267, y: -427}
+    - - {x: 314, y: -427}
+      - {x: 306, y: -434}
+      - {x: 299, y: -444}
+      - {x: 299, y: -468}
+      - {x: 311, y: -480}
+      - {x: 333, y: -480}
+      - {x: 335, y: -478}
+      - {x: 337, y: -465}
+      - {x: 337, y: -438}
+      - {x: 331, y: -427}
+    - - {x: 372, y: -427}
+      - {x: 363, y: -443}
+      - {x: 363, y: -468}
+      - {x: 374, y: -480}
+      - {x: 400, y: -480}
+      - {x: 401, y: -477}
+      - {x: 401, y: -430}
+      - {x: 395, y: -427}
+    - - {x: -335, y: -411}
+      - {x: -334, y: -418}
+      - {x: -308, y: -418}
+      - {x: -305, y: -416}
+      - {x: -305, y: -370}
+      - {x: -306, y: -368}
+      - {x: -314, y: -365}
+      - {x: -333, y: -365}
+      - {x: -335, y: -367}
+    - - {x: -266, y: -364}
+      - {x: -270, y: -369}
+      - {x: -270, y: -395}
+      - {x: -268, y: -411}
+      - {x: -260, y: -418}
+      - {x: -247, y: -418}
+      - {x: -243, y: -417}
+      - {x: -243, y: -366}
+      - {x: -251, y: -364}
+    - - {x: -200, y: -364}
+      - {x: -206, y: -369}
+      - {x: -206, y: -412}
+      - {x: -196, y: -418}
+      - {x: -181, y: -418}
+      - {x: -179, y: -409}
+      - {x: -179, y: -368}
+      - {x: -183, y: -364}
+    - - {x: -125, y: -364}
+      - {x: -138, y: -364}
+      - {x: -142, y: -368}
+      - {x: -142, y: -412}
+      - {x: -131, y: -418}
+      - {x: -118, y: -418}
+      - {x: -111, y: -399}
+      - {x: -111, y: -382}
+      - {x: -114, y: -367}
+    - - {x: -78, y: -364}
+      - {x: -78, y: -412}
+      - {x: -68, y: -418}
+      - {x: -54, y: -418}
+      - {x: -49, y: -403}
+      - {x: -49, y: -364}
+    - - {x: 3, y: -365}
+      - {x: 0, y: -364}
+      - {x: -8, y: -364}
+      - {x: -14, y: -369}
+      - {x: -14, y: -412}
+      - {x: -5, y: -418}
+      - {x: 12, y: -418}
+      - {x: 16, y: -407}
+      - {x: 16, y: -373}
+      - {x: 12, y: -369}
+    - - {x: 50, y: -364}
+      - {x: 50, y: -414}
+      - {x: 58, y: -418}
+      - {x: 75, y: -418}
+      - {x: 81, y: -404}
+      - {x: 81, y: -377}
+      - {x: 73, y: -364}
+    - - {x: 132, y: -364}
+      - {x: 118, y: -364}
+      - {x: 114, y: -369}
+      - {x: 114, y: -395}
+      - {x: 116, y: -410}
+      - {x: 125, y: -418}
+      - {x: 144, y: -418}
+      - {x: 146, y: -415}
+      - {x: 146, y: -376}
+      - {x: 142, y: -367}
+    - - {x: 181, y: -364}
+      - {x: 178, y: -366}
+      - {x: 178, y: -404}
+      - {x: 180, y: -410}
+      - {x: 189, y: -418}
+      - {x: 209, y: -418}
+      - {x: 209, y: -371}
+      - {x: 205, y: -364}
+    - - {x: 259, y: -364}
+      - {x: 245, y: -364}
+      - {x: 242, y: -367}
+      - {x: 242, y: -390}
+      - {x: 246, y: -409}
+      - {x: 253, y: -418}
+      - {x: 263, y: -418}
+      - {x: 268, y: -411}
+      - {x: 269, y: -397}
+      - {x: 269, y: -368}
+    - - {x: 307, y: -364}
+      - {x: 306, y: -365}
+      - {x: 306, y: -398}
+      - {x: 313, y: -418}
+      - {x: 333, y: -418}
+      - {x: 333, y: -364}
+    - - {x: 387, y: -364}
+      - {x: 373, y: -364}
+      - {x: 370, y: -367}
+      - {x: 370, y: -390}
+      - {x: 374, y: -409}
+      - {x: 381, y: -418}
+      - {x: 391, y: -418}
+      - {x: 396, y: -411}
+      - {x: 397, y: -397}
+      - {x: 397, y: -368}
+    - - {x: -371, y: -368}
+      - {x: -377, y: -364}
+      - {x: -397, y: -364}
+      - {x: -402, y: -375}
+      - {x: -402, y: -414}
+      - {x: -400, y: -416}
+      - {x: -374, y: -416}
+      - {x: -368, y: -408}
+      - {x: -368, y: -381}
+    - - {x: -393, y: -299}
+      - {x: -400, y: -306}
+      - {x: -400, y: -333}
+      - {x: -396, y: -349}
+      - {x: -393, y: -352}
+      - {x: -364, y: -352}
+      - {x: -358, y: -349}
+      - {x: -358, y: -332}
+      - {x: -374, y: -299}
+    - - {x: -327, y: -301}
+      - {x: -334, y: -304}
+      - {x: -334, y: -351}
+      - {x: -333, y: -352}
+      - {x: -303, y: -352}
+      - {x: -303, y: -302}
+      - {x: -304, y: -301}
+    - - {x: -245, y: -299}
+      - {x: -266, y: -299}
+      - {x: -270, y: -301}
+      - {x: -270, y: -352}
+      - {x: -244, y: -352}
+      - {x: -241, y: -349}
+      - {x: -241, y: -305}
+      - {x: -243, y: -300}
+    - - {x: -199, y: -299}
+      - {x: -207, y: -306}
+      - {x: -207, y: -352}
+      - {x: -179, y: -352}
+      - {x: -169, y: -341}
+      - {x: -169, y: -310}
+      - {x: -176, y: -299}
+    - - {x: -113, y: -300}
+      - {x: -116, y: -299}
+      - {x: -137, y: -299}
+      - {x: -141, y: -300}
+      - {x: -142, y: -303}
+      - {x: -142, y: -351}
+      - {x: -141, y: -352}
+      - {x: -116, y: -352}
+      - {x: -94, y: -326}
+      - {x: -94, y: -316}
+      - {x: -96, y: -314}
+    - - {x: -69, y: -299}
+      - {x: -78, y: -309}
+      - {x: -78, y: -352}
+      - {x: -46, y: -352}
+      - {x: -30, y: -328}
+      - {x: -30, y: -309}
+      - {x: -49, y: -299}
+    - - {x: -376, y: -234}
+      - {x: -391, y: -234}
+      - {x: -395, y: -236}
+      - {x: -401, y: -244}
+      - {x: -401, y: -288}
+      - {x: -370, y: -288}
+      - {x: -367, y: -287}
+      - {x: -367, y: -240}
+    - - {x: -332, y: -234}
+      - {x: -337, y: -240}
+      - {x: -337, y: -277}
+      - {x: -336, y: -282}
+      - {x: -334, y: -288}
+      - {x: -305, y: -288}
+      - {x: -305, y: -234}
+    - - {x: -265, y: -236}
+      - {x: -275, y: -244}
+      - {x: -275, y: -288}
+      - {x: -241, y: -288}
+      - {x: -241, y: -241}
+      - {x: -246, y: -236}
+    - - {x: -183, y: -235}
+      - {x: -203, y: -235}
+      - {x: -206, y: -252}
+      - {x: -206, y: -288}
+      - {x: -176, y: -288}
+      - {x: -176, y: -237}
+    - - {x: -110, y: -234}
+      - {x: -136, y: -234}
+      - {x: -142, y: -238}
+      - {x: -142, y: -288}
+      - {x: -108, y: -288}
+      - {x: -101, y: -287}
+      - {x: -99, y: -286}
+      - {x: -99, y: -262}
+      - {x: -105, y: -239}
+    - - {x: -76, y: -234}
+      - {x: -79, y: -245}
+      - {x: -79, y: -288}
+      - {x: -31, y: -288}
+      - {x: -31, y: -263}
+      - {x: -44, y: -234}
+    - - {x: -400, y: -171}
+      - {x: -410, y: -189}
+      - {x: -410, y: -224}
+      - {x: -371, y: -224}
+      - {x: -368, y: -213}
+      - {x: -368, y: -177}
+      - {x: -373, y: -171}
+    - - {x: -331, y: -173}
+      - {x: -337, y: -175}
+      - {x: -337, y: -181}
+      - {x: -336, y: -188}
+      - {x: -337, y: -193}
+      - {x: -337, y: -217}
+      - {x: -332, y: -224}
+      - {x: -307, y: -224}
+      - {x: -306, y: -223}
+      - {x: -306, y: -176}
+      - {x: -307, y: -173}
+    - - {x: -265, y: -171}
+      - {x: -271, y: -176}
+      - {x: -271, y: -205}
+      - {x: -269, y: -224}
+      - {x: -242, y: -224}
+      - {x: -242, y: -174}
+      - {x: -250, y: -171}
+    - - {x: -207, y: -171}
+      - {x: -215, y: -191}
+      - {x: -215, y: -215}
+      - {x: -207, y: -224}
+      - {x: -181, y: -224}
+      - {x: -177, y: -220}
+      - {x: -177, y: -185}
+      - {x: -183, y: -171}
+    - - {x: -149, y: -171}
+      - {x: -162, y: -182}
+      - {x: -162, y: -197}
+      - {x: -141, y: -224}
+      - {x: -114, y: -224}
+      - {x: -114, y: -173}
+      - {x: -119, y: -171}
+    - - {x: -93, y: -171}
+      - {x: -98, y: -178}
+      - {x: -98, y: -220}
+      - {x: -89, y: -224}
+      - {x: -50, y: -224}
+      - {x: -50, y: -183}
+      - {x: -53, y: -171}
+    - - {x: -329, y: -109}
+      - {x: -335, y: -115}
+      - {x: -335, y: -161}
+      - {x: -305, y: -161}
+      - {x: -305, y: -111}
+      - {x: -314, y: -109}
+    - - {x: -272, y: -109}
+      - {x: -272, y: -161}
+      - {x: -241, y: -161}
+      - {x: -241, y: -110}
+      - {x: -242, y: -109}
+    - - {x: -201, y: -108}
+      - {x: -217, y: -123}
+      - {x: -217, y: -146}
+      - {x: -212, y: -160}
+      - {x: -210, y: -161}
+      - {x: -176, y: -161}
+      - {x: -176, y: -108}
+    - - {x: -144, y: -108}
+      - {x: -144, y: -161}
+      - {x: -109, y: -161}
+      - {x: -96, y: -122}
+      - {x: -96, y: -108}
+    - - {x: -77, y: -108}
+      - {x: -80, y: -115}
+      - {x: -80, y: -161}
+      - {x: -46, y: -161}
+      - {x: -31, y: -136}
+      - {x: -31, y: -108}
+    - - {x: -401, y: -157}
+      - {x: -398, y: -160}
+      - {x: -367, y: -160}
+      - {x: -367, y: -115}
+      - {x: -368, y: -110}
+      - {x: -371, y: -108}
+      - {x: -397, y: -108}
+      - {x: -401, y: -120}
+    - - {x: -377, y: -43}
+      - {x: -391, y: -43}
+      - {x: -400, y: -51}
+      - {x: -400, y: -75}
+      - {x: -396, y: -94}
+      - {x: -391, y: -96}
+      - {x: -375, y: -96}
+      - {x: -371, y: -95}
+      - {x: -371, y: -49}
+      - {x: -373, y: -44}
+    - - {x: -306, y: -51}
+      - {x: -313, y: -44}
+      - {x: -336, y: -44}
+      - {x: -336, y: -96}
+      - {x: -308, y: -96}
+      - {x: -305, y: -92}
+      - {x: -305, y: -56}
+    - - {x: -139, y: -43}
+      - {x: -144, y: -48}
+      - {x: -144, y: -82}
+      - {x: -141, y: -95}
+      - {x: -137, y: -96}
+      - {x: -118, y: -96}
+      - {x: -115, y: -93}
+      - {x: -115, y: -46}
+      - {x: -121, y: -43}
+    - - {x: -54, y: -44}
+      - {x: -78, y: -44}
+      - {x: -82, y: -51}
+      - {x: -82, y: -92}
+      - {x: -77, y: -96}
+      - {x: -50, y: -96}
+      - {x: -50, y: -54}
+      - {x: -53, y: -45}
+    - - {x: -16, y: -89}
+      - {x: -10, y: -96}
+      - {x: 11, y: -96}
+      - {x: 13, y: -86}
+      - {x: 13, y: -43}
+      - {x: -16, y: -43}
+    - - {x: 54, y: -43}
+      - {x: 48, y: -50}
+      - {x: 48, y: -86}
+      - {x: 49, y: -92}
+      - {x: 57, y: -96}
+      - {x: 71, y: -96}
+      - {x: 77, y: -71}
+      - {x: 77, y: -46}
+      - {x: 70, y: -43}
+    - - {x: 117, y: -43}
+      - {x: 112, y: -48}
+      - {x: 112, y: -81}
+      - {x: 116, y: -96}
+      - {x: 137, y: -96}
+      - {x: 141, y: -79}
+      - {x: 141, y: -45}
+      - {x: 136, y: -43}
+    - - {x: -264, y: -43}
+      - {x: -272, y: -50}
+      - {x: -272, y: -73}
+      - {x: -266, y: -95}
+      - {x: -243, y: -95}
+      - {x: -243, y: -46}
+      - {x: -251, y: -43}
+    - - {x: -203, y: -43}
+      - {x: -208, y: -50}
+      - {x: -208, y: -84}
+      - {x: -200, y: -95}
+      - {x: -183, y: -95}
+      - {x: -179, y: -74}
+      - {x: -179, y: -46}
+      - {x: -185, y: -43}
+    - - {x: -273, y: 22}
+      - {x: -273, y: -33}
+      - {x: -239, y: -33}
+      - {x: -239, y: 18}
+      - {x: -240, y: 22}
+    - - {x: -205, y: 21}
+      - {x: -208, y: 10}
+      - {x: -208, y: -29}
+      - {x: -202, y: -33}
+      - {x: -179, y: -33}
+      - {x: -177, y: -32}
+      - {x: -175, y: -28}
+      - {x: -175, y: 12}
+      - {x: -180, y: 21}
+    - - {x: -143, y: 22}
+      - {x: -145, y: 20}
+      - {x: -145, y: -25}
+      - {x: -144, y: -33}
+      - {x: -111, y: -33}
+      - {x: -111, y: 21}
+      - {x: -116, y: 22}
+    - - {x: 5, y: 22}
+      - {x: -4, y: 22}
+      - {x: -11, y: 20}
+      - {x: -17, y: 3}
+      - {x: -17, y: -23}
+      - {x: -15, y: -31}
+      - {x: -13, y: -33}
+      - {x: 10, y: -33}
+      - {x: 17, y: -29}
+      - {x: 17, y: 7}
+      - {x: 12, y: 18}
+    - - {x: 77, y: 18}
+      - {x: 70, y: 21}
+      - {x: 51, y: 21}
+      - {x: 47, y: 3}
+      - {x: 47, y: -25}
+      - {x: 50, y: -31}
+      - {x: 55, y: -33}
+      - {x: 69, y: -33}
+      - {x: 74, y: -31}
+      - {x: 80, y: -23}
+      - {x: 80, y: -4}
+    - - {x: 135, y: 22}
+      - {x: 124, y: 22}
+      - {x: 117, y: 20}
+      - {x: 111, y: 12}
+      - {x: 111, y: -33}
+      - {x: 145, y: -33}
+      - {x: 145, y: 4}
+      - {x: 142, y: 20}
+    - - {x: -381, y: -32}
+      - {x: -373, y: -32}
+      - {x: -367, y: -31}
+      - {x: -367, y: 15}
+      - {x: -371, y: 22}
+      - {x: -394, y: 22}
+      - {x: -401, y: 13}
+      - {x: -401, y: -26}
+      - {x: -400, y: -31}
+      - {x: -396, y: -32}
+      - {x: -387, y: -32}
+      - {x: -385, y: -28}
+      - {x: -385, y: -24}
+    - - {x: -326, y: 22}
+      - {x: -331, y: 20}
+      - {x: -336, y: 7}
+      - {x: -337, y: 3}
+      - {x: -337, y: -32}
+      - {x: -306, y: -32}
+      - {x: -303, y: -28}
+      - {x: -303, y: 16}
+      - {x: -313, y: 22}
+    - - {x: -77, y: 22}
+      - {x: -81, y: 5}
+      - {x: -81, y: -29}
+      - {x: -80, y: -32}
+      - {x: -47, y: -32}
+      - {x: -47, y: 17}
+      - {x: -56, y: 22}
+    - - {x: -375, y: 85}
+      - {x: -391, y: 85}
+      - {x: -397, y: 79}
+      - {x: -397, y: 34}
+      - {x: -393, y: 32}
+      - {x: -378, y: 32}
+      - {x: -371, y: 35}
+      - {x: -370, y: 49}
+      - {x: -368, y: 58}
+      - {x: -368, y: 75}
+    - - {x: -311, y: 84}
+      - {x: -333, y: 84}
+      - {x: -335, y: 76}
+      - {x: -335, y: 32}
+      - {x: -305, y: 32}
+      - {x: -304, y: 35}
+      - {x: -304, y: 78}
+      - {x: -308, y: 82}
+    - - {x: -140, y: 85}
+      - {x: -141, y: 84}
+      - {x: -141, y: 34}
+      - {x: -137, y: 32}
+      - {x: -112, y: 32}
+      - {x: -112, y: 82}
+      - {x: -120, y: 85}
+    - - {x: -76, y: 84}
+      - {x: -78, y: 82}
+      - {x: -78, y: 32}
+      - {x: -47, y: 32}
+      - {x: -46, y: 41}
+      - {x: -46, y: 77}
+      - {x: -56, y: 84}
+    - - {x: -6, y: 85}
+      - {x: -13, y: 84}
+      - {x: -13, y: 44}
+      - {x: -11, y: 32}
+      - {x: 14, y: 32}
+      - {x: 16, y: 42}
+      - {x: 16, y: 81}
+      - {x: 12, y: 85}
+    - - {x: 54, y: 85}
+      - {x: 51, y: 80}
+      - {x: 51, y: 48}
+      - {x: 55, y: 32}
+      - {x: 73, y: 32}
+      - {x: 80, y: 39}
+      - {x: 80, y: 85}
+    - - {x: 122, y: 85}
+      - {x: 115, y: 83}
+      - {x: 115, y: 55}
+      - {x: 117, y: 34}
+      - {x: 122, y: 32}
+      - {x: 139, y: 32}
+      - {x: 144, y: 51}
+      - {x: 144, y: 80}
+      - {x: 141, y: 85}
+    - - {x: -252, y: 85}
+      - {x: -264, y: 85}
+      - {x: -269, y: 79}
+      - {x: -269, y: 33}
+      - {x: -240, y: 33}
+      - {x: -240, y: 78}
+      - {x: -244, y: 83}
+    - - {x: -198, y: 85}
+      - {x: -205, y: 83}
+      - {x: -205, y: 59}
+      - {x: -202, y: 41}
+      - {x: -199, y: 33}
+      - {x: -187, y: 33}
+      - {x: -182, y: 34}
+      - {x: -176, y: 42}
+      - {x: -176, y: 77}
+      - {x: -180, y: 85}
+    - - {x: -203, y: 148}
+      - {x: -207, y: 140}
+      - {x: -209, y: 131}
+      - {x: -209, y: 105}
+      - {x: -196, y: 95}
+      - {x: -176, y: 95}
+      - {x: -176, y: 144}
+      - {x: -185, y: 148}
+    - - {x: 79, y: 146}
+      - {x: 74, y: 148}
+      - {x: 52, y: 148}
+      - {x: 48, y: 139}
+      - {x: 48, y: 106}
+      - {x: 52, y: 98}
+      - {x: 56, y: 95}
+      - {x: 61, y: 95}
+      - {x: 73, y: 98}
+      - {x: 81, y: 105}
+      - {x: 81, y: 135}
+    - - {x: -246, y: 149}
+      - {x: -270, y: 149}
+      - {x: -273, y: 148}
+      - {x: -273, y: 96}
+      - {x: -244, y: 96}
+      - {x: -239, y: 105}
+      - {x: -239, y: 131}
+      - {x: -242, y: 145}
+    - - {x: -121, y: 149}
+      - {x: -139, y: 149}
+      - {x: -145, y: 138}
+      - {x: -145, y: 101}
+      - {x: -144, y: 98}
+      - {x: -135, y: 96}
+      - {x: -116, y: 96}
+      - {x: -111, y: 104}
+      - {x: -111, y: 135}
+      - {x: -114, y: 145}
+    - - {x: 11, y: 149}
+      - {x: -11, y: 149}
+      - {x: -17, y: 138}
+      - {x: -17, y: 99}
+      - {x: -16, y: 97}
+      - {x: -15, y: 96}
+      - {x: 9, y: 96}
+      - {x: 17, y: 101}
+      - {x: 17, y: 143}
+      - {x: 16, y: 147}
+    - - {x: 131, y: 149}
+      - {x: 119, y: 149}
+      - {x: 112, y: 141}
+      - {x: 111, y: 128}
+      - {x: 111, y: 110}
+      - {x: 117, y: 96}
+      - {x: 137, y: 96}
+      - {x: 145, y: 107}
+      - {x: 145, y: 126}
+      - {x: 142, y: 145}
+    - - {x: -372, y: 149}
+      - {x: -397, y: 149}
+      - {x: -401, y: 139}
+      - {x: -401, y: 98}
+      - {x: -400, y: 97}
+      - {x: -367, y: 97}
+      - {x: -367, y: 142}
+      - {x: -368, y: 147}
+    - - {x: -308, y: 149}
+      - {x: -331, y: 149}
+      - {x: -337, y: 147}
+      - {x: -337, y: 97}
+      - {x: -303, y: 97}
+      - {x: -303, y: 139}
+    - - {x: -60, y: 149}
+      - {x: -73, y: 149}
+      - {x: -81, y: 144}
+      - {x: -81, y: 97}
+      - {x: -53, y: 97}
+      - {x: -47, y: 103}
+      - {x: -47, y: 133}
+      - {x: -51, y: 144}
+    - - {x: -377, y: 213}
+      - {x: -391, y: 213}
+      - {x: -400, y: 205}
+      - {x: -400, y: 181}
+      - {x: -396, y: 162}
+      - {x: -391, y: 160}
+      - {x: -375, y: 160}
+      - {x: -371, y: 161}
+      - {x: -371, y: 207}
+      - {x: -373, y: 212}
+    - - {x: -313, y: 213}
+      - {x: -328, y: 213}
+      - {x: -336, y: 205}
+      - {x: -336, y: 167}
+      - {x: -330, y: 160}
+      - {x: -307, y: 160}
+      - {x: -305, y: 163}
+      - {x: -305, y: 200}
+      - {x: -309, y: 212}
+    - - {x: -246, y: 160}
+      - {x: -241, y: 162}
+      - {x: -241, y: 213}
+      - {x: -272, y: 213}
+      - {x: -272, y: 160}
+    - - {x: -200, y: 213}
+      - {x: -209, y: 205}
+      - {x: -209, y: 160}
+      - {x: -179, y: 160}
+      - {x: -179, y: 213}
+    - - {x: -137, y: 213}
+      - {x: -142, y: 212}
+      - {x: -142, y: 160}
+      - {x: -118, y: 160}
+      - {x: -109, y: 167}
+      - {x: -109, y: 201}
+      - {x: -115, y: 213}
+    - - {x: -51, y: 212}
+      - {x: -53, y: 213}
+      - {x: -72, y: 213}
+      - {x: -78, y: 205}
+      - {x: -78, y: 161}
+      - {x: -73, y: 160}
+      - {x: -58, y: 160}
+      - {x: -51, y: 163}
+      - {x: -42, y: 179}
+      - {x: -42, y: 188}
+    - - {x: -9, y: 213}
+      - {x: -14, y: 212}
+      - {x: -14, y: 160}
+      - {x: 10, y: 160}
+      - {x: 19, y: 167}
+      - {x: 19, y: 201}
+      - {x: 13, y: 213}
+    - - {x: 55, y: 213}
+      - {x: 47, y: 207}
+      - {x: 47, y: 169}
+      - {x: 49, y: 160}
+      - {x: 69, y: 160}
+      - {x: 77, y: 163}
+      - {x: 77, y: 207}
+      - {x: 70, y: 213}
+    - - {x: -381, y: 224}
+      - {x: -373, y: 224}
+      - {x: -367, y: 225}
+      - {x: -367, y: 271}
+      - {x: -371, y: 278}
+      - {x: -394, y: 278}
+      - {x: -401, y: 269}
+      - {x: -401, y: 230}
+      - {x: -400, y: 225}
+      - {x: -396, y: 224}
+      - {x: -387, y: 224}
+      - {x: -385, y: 228}
+      - {x: -385, y: 232}
+    - - {x: -333, y: 278}
+      - {x: -335, y: 267}
+      - {x: -335, y: 231}
+      - {x: -332, y: 225}
+      - {x: -308, y: 225}
+      - {x: -307, y: 226}
+      - {x: -307, y: 276}
+      - {x: -313, y: 278}
+    - - {x: -264, y: 278}
+      - {x: -267, y: 276}
+      - {x: -271, y: 265}
+      - {x: -271, y: 256}
+      - {x: -267, y: 225}
+      - {x: -243, y: 225}
+      - {x: -243, y: 273}
+      - {x: -247, y: 278}
+    - - {x: -205, y: 278}
+      - {x: -208, y: 268}
+      - {x: -208, y: 238}
+      - {x: -203, y: 226}
+      - {x: -195, y: 225}
+      - {x: -181, y: 225}
+      - {x: -179, y: 227}
+      - {x: -179, y: 278}
+    - - {x: -137, y: 277}
+      - {x: -143, y: 267}
+      - {x: -143, y: 245}
+      - {x: -139, y: 229}
+      - {x: -138, y: 227}
+      - {x: -127, y: 225}
+      - {x: -116, y: 225}
+      - {x: -115, y: 227}
+      - {x: -115, y: 275}
+      - {x: -122, y: 277}
+    - - {x: -74, y: 277}
+      - {x: -79, y: 263}
+      - {x: -79, y: 255}
+      - {x: -77, y: 229}
+      - {x: -70, y: 225}
+      - {x: -55, y: 225}
+      - {x: -51, y: 227}
+      - {x: -51, y: 277}
+    - - {x: -9, y: 277}
+      - {x: -15, y: 267}
+      - {x: -15, y: 245}
+      - {x: -11, y: 229}
+      - {x: -10, y: 227}
+      - {x: 1, y: 225}
+      - {x: 12, y: 225}
+      - {x: 13, y: 227}
+      - {x: 13, y: 275}
+      - {x: 6, y: 277}
+    - - {x: 52, y: 278}
+      - {x: 48, y: 270}
+      - {x: 48, y: 246}
+      - {x: 53, y: 225}
+      - {x: 77, y: 225}
+      - {x: 77, y: 277}
+      - {x: 72, y: 278}
+    - - {x: -375, y: 341}
+      - {x: -391, y: 341}
+      - {x: -397, y: 335}
+      - {x: -397, y: 290}
+      - {x: -393, y: 288}
+      - {x: -378, y: 288}
+      - {x: -371, y: 291}
+      - {x: -370, y: 305}
+      - {x: -368, y: 314}
+      - {x: -368, y: 331}
+    - - {x: -332, y: 341}
+      - {x: -335, y: 340}
+      - {x: -335, y: 288}
+      - {x: -306, y: 288}
+      - {x: -304, y: 298}
+      - {x: -304, y: 338}
+      - {x: -306, y: 341}
+    - - {x: -271, y: 291}
+      - {x: -269, y: 288}
+      - {x: -246, y: 288}
+      - {x: -240, y: 295}
+      - {x: -240, y: 328}
+      - {x: -245, y: 341}
+      - {x: -263, y: 341}
+      - {x: -271, y: 340}
+    - - {x: -199, y: 341}
+      - {x: -205, y: 336}
+      - {x: -205, y: 291}
+      - {x: -202, y: 289}
+      - {x: -198, y: 288}
+      - {x: -178, y: 288}
+      - {x: -175, y: 293}
+      - {x: -175, y: 330}
+      - {x: -180, y: 341}
+    - - {x: -144, y: 341}
+      - {x: -147, y: 334}
+      - {x: -147, y: 297}
+      - {x: -138, y: 288}
+      - {x: -116, y: 288}
+      - {x: -114, y: 289}
+      - {x: -114, y: 331}
+      - {x: -120, y: 341}
+    - - {x: -86, y: 302}
+      - {x: -78, y: 302}
+      - {x: -77, y: 295}
+      - {x: -74, y: 289}
+      - {x: -70, y: 288}
+      - {x: -50, y: 288}
+      - {x: -50, y: 341}
+      - {x: -78, y: 341}
+      - {x: -86, y: 323}
+    - - {x: -16, y: 341}
+      - {x: -19, y: 334}
+      - {x: -19, y: 297}
+      - {x: -10, y: 288}
+      - {x: 12, y: 288}
+      - {x: 14, y: 289}
+      - {x: 14, y: 331}
+      - {x: 8, y: 341}
+    - - {x: 81, y: 330}
+      - {x: 77, y: 341}
+      - {x: 57, y: 341}
+      - {x: 51, y: 335}
+      - {x: 51, y: 301}
+      - {x: 52, y: 291}
+      - {x: 54, y: 289}
+      - {x: 65, y: 288}
+      - {x: 74, y: 288}
+      - {x: 76, y: 291}
+      - {x: 76, y: 294}
+      - {x: 81, y: 305}
+    - - {x: -331, y: 403}
+      - {x: -334, y: 402}
+      - {x: -334, y: 367}
+      - {x: -333, y: 355}
+      - {x: -326, y: 350}
+      - {x: -310, y: 350}
+      - {x: -305, y: 352}
+      - {x: -304, y: 357}
+      - {x: -304, y: 395}
+      - {x: -310, y: 403}
+    - - {x: -248, y: 404}
+      - {x: -263, y: 404}
+      - {x: -268, y: 400}
+      - {x: -268, y: 363}
+      - {x: -267, y: 357}
+      - {x: -259, y: 350}
+      - {x: -244, y: 350}
+      - {x: -241, y: 351}
+      - {x: -241, y: 396}
+      - {x: -244, y: 403}
+    - - {x: -204, y: 404}
+      - {x: -204, y: 354}
+      - {x: -197, y: 350}
+      - {x: -180, y: 350}
+      - {x: -177, y: 365}
+      - {x: -177, y: 402}
+      - {x: -178, y: 404}
+    - - {x: -121, y: 403}
+      - {x: -135, y: 403}
+      - {x: -139, y: 400}
+      - {x: -139, y: 362}
+      - {x: -137, y: 350}
+      - {x: -112, y: 350}
+      - {x: -112, y: 397}
+      - {x: -115, y: 402}
+    - - {x: -70, y: 403}
+      - {x: -75, y: 398}
+      - {x: -75, y: 354}
+      - {x: -67, y: 350}
+      - {x: -48, y: 350}
+      - {x: -48, y: 403}
+    - - {x: 7, y: 403}
+      - {x: -7, y: 403}
+      - {x: -11, y: 400}
+      - {x: -11, y: 362}
+      - {x: -9, y: 350}
+      - {x: 16, y: 350}
+      - {x: 16, y: 397}
+      - {x: 13, y: 402}
+    - - {x: 70, y: 404}
+      - {x: 57, y: 404}
+      - {x: 52, y: 399}
+      - {x: 52, y: 355}
+      - {x: 60, y: 350}
+      - {x: 76, y: 350}
+      - {x: 79, y: 366}
+      - {x: 79, y: 398}
+      - {x: 76, y: 403}
+    - - {x: -393, y: 404}
+      - {x: -398, y: 403}
+      - {x: -401, y: 377}
+      - {x: -401, y: 363}
+      - {x: -398, y: 355}
+      - {x: -393, y: 352}
+      - {x: -367, y: 352}
+      - {x: -367, y: 403}
+      - {x: -369, y: 404}
+    - - {x: -395, y: 469}
+      - {x: -400, y: 462}
+      - {x: -400, y: 437}
+      - {x: -393, y: 416}
+      - {x: -371, y: 416}
+      - {x: -371, y: 469}
+    - - {x: -330, y: 469}
+      - {x: -336, y: 460}
+      - {x: -336, y: 437}
+      - {x: -333, y: 418}
+      - {x: -327, y: 416}
+      - {x: -307, y: 416}
+      - {x: -307, y: 469}
+    - - {x: -268, y: 469}
+      - {x: -272, y: 468}
+      - {x: -272, y: 445}
+      - {x: -271, y: 435}
+      - {x: -265, y: 416}
+      - {x: -247, y: 416}
+      - {x: -243, y: 417}
+      - {x: -243, y: 465}
+      - {x: -245, y: 469}
+    - - {x: -204, y: 469}
+      - {x: -208, y: 468}
+      - {x: -208, y: 429}
+      - {x: -202, y: 416}
+      - {x: -185, y: 416}
+      - {x: -178, y: 418}
+      - {x: -178, y: 465}
+      - {x: -181, y: 469}
+    - - {x: -141, y: 469}
+      - {x: -145, y: 468}
+      - {x: -149, y: 455}
+      - {x: -149, y: 435}
+      - {x: -137, y: 416}
+      - {x: -124, y: 416}
+      - {x: -114, y: 418}
+      - {x: -112, y: 425}
+      - {x: -112, y: 452}
+      - {x: -117, y: 469}
+    - - {x: -77, y: 469}
+      - {x: -81, y: 468}
+      - {x: -85, y: 457}
+      - {x: -85, y: 438}
+      - {x: -73, y: 416}
+      - {x: -59, y: 416}
+      - {x: -50, y: 418}
+      - {x: -48, y: 429}
+      - {x: -48, y: 461}
+      - {x: -53, y: 469}
+    - - {x: -14, y: 469}
+      - {x: -17, y: 467}
+      - {x: -18, y: 464}
+      - {x: -18, y: 434}
+      - {x: -10, y: 416}
+      - {x: 7, y: 416}
+      - {x: 14, y: 418}
+      - {x: 14, y: 469}
+    - - {x: -368, y: 533}
+      - {x: -370, y: 534}
+      - {x: -397, y: 534}
+      - {x: -401, y: 525}
+      - {x: -401, y: 482}
+      - {x: -399, y: 480}
+      - {x: -370, y: 480}
+      - {x: -367, y: 486}
+      - {x: -367, y: 524}
+    - - {x: -310, y: 534}
+      - {x: -328, y: 534}
+      - {x: -337, y: 526}
+      - {x: -337, y: 480}
+      - {x: -303, y: 480}
+      - {x: -303, y: 527}
+    - - {x: -272, y: 534}
+      - {x: -272, y: 480}
+      - {x: -240, y: 480}
+      - {x: -240, y: 527}
+      - {x: -244, y: 534}
+    - - {x: -206, y: 534}
+      - {x: -212, y: 521}
+      - {x: -212, y: 480}
+      - {x: -176, y: 480}
+      - {x: -172, y: 486}
+      - {x: -172, y: 518}
+      - {x: -180, y: 534}
+    - - {x: -120, y: 534}
+      - {x: -141, y: 534}
+      - {x: -155, y: 520}
+      - {x: -155, y: 506}
+      - {x: -154, y: 504}
+      - {x: -143, y: 480}
+      - {x: -104, y: 480}
+      - {x: -101, y: 500}
+      - {x: -101, y: 518}
+      - {x: -113, y: 533}
+    - - {x: -49, y: 533}
+      - {x: -53, y: 534}
+      - {x: -80, y: 534}
+      - {x: -90, y: 524}
+      - {x: -90, y: 480}
+      - {x: -38, y: 480}
+      - {x: -38, y: 528}
+      - {x: -41, y: 529}
+    - - {x: -12, y: 534}
+      - {x: -19, y: 513}
+      - {x: -19, y: 480}
+      - {x: 15, y: 480}
+      - {x: 19, y: 484}
+      - {x: 19, y: 522}
+      - {x: 12, y: 534}
+    - - {x: -380, y: 597}
+      - {x: -392, y: 597}
+      - {x: -397, y: 591}
+      - {x: -397, y: 544}
+      - {x: -371, y: 544}
+      - {x: -368, y: 553}
+      - {x: -368, y: 591}
+      - {x: -372, y: 595}
+    - - {x: -316, y: 597}
+      - {x: -328, y: 597}
+      - {x: -333, y: 592}
+      - {x: -333, y: 547}
+      - {x: -331, y: 544}
+      - {x: -305, y: 544}
+      - {x: -304, y: 545}
+      - {x: -304, y: 590}
+      - {x: -308, y: 595}
+    - - {x: -262, y: 597}
+      - {x: -269, y: 596}
+      - {x: -269, y: 544}
+      - {x: -245, y: 544}
+      - {x: -240, y: 558}
+      - {x: -240, y: 588}
+      - {x: -244, y: 597}
+    - - {x: -199, y: 597}
+      - {x: -206, y: 592}
+      - {x: -206, y: 545}
+      - {x: -203, y: 544}
+      - {x: -181, y: 544}
+      - {x: -176, y: 553}
+      - {x: -176, y: 588}
+      - {x: -180, y: 597}
+    - - {x: -144, y: 597}
+      - {x: -144, y: 544}
+      - {x: -117, y: 544}
+      - {x: -114, y: 545}
+      - {x: -107, y: 557}
+      - {x: -107, y: 586}
+      - {x: -112, y: 597}
+    - - {x: -56, y: 597}
+      - {x: -75, y: 597}
+      - {x: -80, y: 595}
+      - {x: -80, y: 549}
+      - {x: -79, y: 544}
+      - {x: -53, y: 544}
+      - {x: -43, y: 566}
+      - {x: -43, y: 590}
+      - {x: -51, y: 596}
+    - - {x: 8, y: 597}
+      - {x: -11, y: 597}
+      - {x: -14, y: 592}
+      - {x: -14, y: 549}
+      - {x: -12, y: 544}
+      - {x: 10, y: 544}
+      - {x: 18, y: 561}
+      - {x: 18, y: 583}
+      - {x: 12, y: 595}
+    - - {x: -401, y: 612}
+      - {x: -400, y: 608}
+      - {x: -367, y: 608}
+      - {x: -367, y: 660}
+      - {x: -399, y: 660}
+      - {x: -401, y: 653}
+    - - {x: -327, y: 660}
+      - {x: -333, y: 658}
+      - {x: -336, y: 648}
+      - {x: -336, y: 612}
+      - {x: -335, y: 608}
+      - {x: -306, y: 608}
+      - {x: -304, y: 609}
+      - {x: -304, y: 653}
+      - {x: -310, y: 660}
+    - - {x: -252, y: 660}
+      - {x: -265, y: 660}
+      - {x: -271, y: 652}
+      - {x: -272, y: 650}
+      - {x: -272, y: 615}
+      - {x: -270, y: 608}
+      - {x: -242, y: 608}
+      - {x: -240, y: 617}
+      - {x: -240, y: 651}
+      - {x: -242, y: 656}
+    - - {x: -183, y: 660}
+      - {x: -204, y: 660}
+      - {x: -212, y: 648}
+      - {x: -212, y: 618}
+      - {x: -206, y: 608}
+      - {x: -174, y: 608}
+      - {x: -172, y: 610}
+      - {x: -172, y: 649}
+      - {x: -177, y: 657}
+    - - {x: -114, y: 660}
+      - {x: -146, y: 660}
+      - {x: -155, y: 654}
+      - {x: -155, y: 618}
+      - {x: -150, y: 608}
+      - {x: -116, y: 608}
+      - {x: -113, y: 611}
+      - {x: -101, y: 626}
+      - {x: -101, y: 645}
+    - - {x: -56, y: 660}
+      - {x: -78, y: 660}
+      - {x: -90, y: 647}
+      - {x: -90, y: 631}
+      - {x: -80, y: 608}
+      - {x: -48, y: 608}
+      - {x: -44, y: 609}
+      - {x: -38, y: 628}
+      - {x: -38, y: 650}
+      - {x: -49, y: 656}
+    - - {x: 9, y: 660}
+      - {x: -12, y: 660}
+      - {x: -20, y: 648}
+      - {x: -20, y: 620}
+      - {x: -13, y: 608}
+      - {x: 16, y: 608}
+      - {x: 20, y: 614}
+      - {x: 20, y: 645}
+      - {x: 15, y: 657}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

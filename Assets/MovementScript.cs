@@ -21,6 +21,10 @@ public class MovementScript : MonoBehaviour
     public int OffSet;
     public GameObject sonidoDolor;
 
+    //Animaciones
+    public Animator animator;
+
+
     // Start is called before the first frame update
     void Start()
     {
@@ -58,6 +62,10 @@ public class MovementScript : MonoBehaviour
             Destroy(gameObject);
             Destroy(Corazon);
         }
+
+        //Animaciones
+        animator.SetFloat("Horizontal", horizontalMove);
+        animator.SetFloat("Vertical", verticalMove);
     }
 
     private void FixedUpdate()
