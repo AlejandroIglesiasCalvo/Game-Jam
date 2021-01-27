@@ -20,6 +20,8 @@ public class MovementScript : MonoBehaviour
     public Canvas MyCanvas;
     public int OffSet;
     public GameObject sonidoDolor;
+    //Hielo
+    private bool enHielo=false;
 
     //Animaciones
     public Animator animator;
@@ -62,10 +64,16 @@ public class MovementScript : MonoBehaviour
             Destroy(gameObject);
             Destroy(Corazon);
         }
+<<<<<<< Updated upstream
 
         //Animaciones
         animator.SetFloat("Horizontal", horizontalMove);
         animator.SetFloat("Vertical", verticalMove);
+=======
+        if(colisionado.tag == "Hielo"){
+            enHielo=true;
+        }
+>>>>>>> Stashed changes
     }
 
     private void FixedUpdate()
@@ -77,17 +85,17 @@ public class MovementScript : MonoBehaviour
         if (horizontalMove >0)
         {
             anims.SetInteger("moveType", 2);
-           
+        
             anims.SetInteger("direction", 4);
         }
         else
         {
-             anims.SetInteger("moveType", 1);
+            anims.SetInteger("moveType", 1);
 
         }
         Vector2 direccion = new Vector2(horizontalMove, verticalMove);
         //direccion=direccion.normalized;
-        m_Rigidbody2D.velocity =direccion*Time.fixedDeltaTime*runSpeed;
+        m_Rigidbody2D.velocity =direccion*Time.fixedDeltaTime*runSpeed;      
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
@@ -105,5 +113,10 @@ public class MovementScript : MonoBehaviour
     private void OnCollisionExit2D(Collision2D collision)
     {
         colisionado = null;
+        if(colisionado.tag == "Hielo")
+        {
+            enHielo=false;
+        }
     }
+
 }

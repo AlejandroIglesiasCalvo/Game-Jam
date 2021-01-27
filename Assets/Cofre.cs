@@ -38,7 +38,7 @@ public class Cofre : MonoBehaviour
     }
     private void QuitarNota(){
         Destroy (GameObject.FindWithTag("Nota"));
-        mostrar==false;
+        mostrar=false;
     }
      private void OnCollisionEnter2D(Collision2D collision)
     {
