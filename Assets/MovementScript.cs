@@ -21,10 +21,10 @@ public class MovementScript : MonoBehaviour
     public int OffSet;
     public GameObject sonidoDolor;
     //Hielo
-    private bool enHielo=false;
-
+    private bool enHielo;
     //Animaciones
     public Animator animator;
+
 
 
     // Start is called before the first frame update
@@ -32,7 +32,7 @@ public class MovementScript : MonoBehaviour
     {
         m_Rigidbody2D = GetComponent<Rigidbody2D>();
         anims = GetComponent<Animator>();
-
+        enHielo=false;
         Transform PosCorazon = PosPrimerCorazon;
 
         //Vida del jugador
@@ -47,31 +47,26 @@ public class MovementScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        horizontalMove=Input.GetAxisRaw("Horizontal");
-        verticalMove=Input.GetAxisRaw("Vertical");
-        
-        if (Input.GetKeyDown(KeyCode.E)&&colisionado)
-        {
-            InteractuAR aux = colisionado.GetComponent<InteractuAR>();
-            if (aux)
+            horizontalMove=Input.GetAxisRaw("Horizontal");
+            verticalMove=Input.GetAxisRaw("Vertical");
+            
+            if (Input.GetKeyDown(KeyCode.E)&&colisionado)
             {
-                aux.Interactuar();
+                InteractuAR aux = colisionado.GetComponent<InteractuAR>();
+                if (aux)
+                {
+                    aux.Interactuar();
+                }
             }
-        }
-        //Si la vida del jugador llega a 0 se muere
-        if (numCorazones <= 0)
-        {
-            Destroy(gameObject);
-            Destroy(Corazon);
-        }
-        //Animaciones
-        animator.SetFloat("Horizontal", horizontalMove);
-        animator.SetFloat("Vertical", verticalMove);
-
-        if(colisionado.tag == "Hielo"){
-            enHielo=true;
-        }
-
+            //Si la vida del jugador llega a 0 se muere
+            if (numCorazones <= 0)
+            {
+                Destroy(gameObject);
+                Destroy(Corazon);
+            }
+            //Animaciones
+            animator.SetFloat("Horizontal", horizontalMove);
+            animator.SetFloat("Vertical", verticalMove);
     }
 
     private void FixedUpdate()
@@ -80,20 +75,25 @@ public class MovementScript : MonoBehaviour
     }
     private void Moverse()
     {
-        if (horizontalMove >0)
-        {
-            anims.SetInteger("moveType", 2);
-        
-            anims.SetInteger("direction", 4);
-        }
-        else
-        {
-            anims.SetInteger("moveType", 1);
+        if(enHielo){
+           m_Rigidbody2D.AddForce(new Vector2 (horizontalMove, verticalMove));
+        }else{
+            if (horizontalMove >0)
+            {
+                anims.SetInteger("moveType", 2);
+            
+                anims.SetInteger("direction", 4);
+            }
+            else
+            {
+                anims.SetInteger("moveType", 1);
 
+            }
+            Vector2 direccion = new Vector2(horizontalMove, verticalMove);
+            //direccion=direccion.normalized;
+            m_Rigidbody2D.velocity =direccion*Time.fixedDeltaTime*runSpeed;  
         }
-        Vector2 direccion = new Vector2(horizontalMove, verticalMove);
-        //direccion=direccion.normalized;
-        m_Rigidbody2D.velocity =direccion*Time.fixedDeltaTime*runSpeed;      
+           
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
@@ -109,12 +109,17 @@ public class MovementScript : MonoBehaviour
     
     }
     private void OnCollisionExit2D(Collision2D collision)
-    {
+    {  
         colisionado = null;
-        if(colisionado.tag == "Hielo")
-        {
-            enHielo=false;
-        }
     }
-
+    private void OnTriggerEnter2D(Collider2D col)
+    {
+        Debug.Log("ENTRAR" + col.name);
+        enHielo=true;   
+    }
+    private void OnTriggerExit2D(Collider2D col)
+    {
+        Debug.Log("SALIR" + col.name);
+        enHielo=false;   
+    }
 }
