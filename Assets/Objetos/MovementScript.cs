@@ -25,7 +25,8 @@ public class MovementScript : MonoBehaviour
     //Animaciones
     public Animator animator;
     public LevelLoader loader;
-
+    //Joystick
+    public Joystick joy;
     // Start is called before the first frame update
     void Start()
     {
@@ -46,24 +47,12 @@ public class MovementScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        horizontalMove=Input.GetAxisRaw("Horizontal");
-        if (horizontalMove == 0)
-        {
-            verticalMove = Input.GetAxisRaw("Vertical");
-        }
-        else
-        {
-            verticalMove = 0;
-        }
+        MovimientoWindows();
+        MovimientoAndroid();
 
         if (Input.GetKeyDown(KeyCode.E)&&colisionado)
         {
-            //InteractuAR aux = colisionado.GetComponent<InteractuAR>();
-            //if (aux)
-            //{
-//aux.Interactuar();
-
-            //}
+            
         }
         //Si la vida del jugador llega a 0 se muere
         if (numCorazones <= 0)
@@ -142,5 +131,24 @@ public class MovementScript : MonoBehaviour
         Debug.Log("SALIR" + col.name);
         enHielo = false;
     }
+    private void MovimientoWindows(){
+    //Movimiento teclas y mando
+        horizontalMove=Input.GetAxisRaw("Horizontal");
+        if (horizontalMove == 0)
+        {
+            verticalMove = Input.GetAxisRaw("Vertical");
+        }
+        else
+        {
+            verticalMove = 0;
+        }
+    }
+    private void MovimientoAndroid(){
+        //movimiento joystick
+        // if(horizontalMove=joy.Horizontal>= .2f){
 
+        // }
+        horizontalMove=joy.Horizontal;
+        verticalMove=joy.Vertical;
+    }
 }
